@@ -8,6 +8,9 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Orderly | CRM para delivery no WhatsApp",
+  icons: {
+    icon: "/favicon.png",
+  },
   description:
     "Organize pedidos, tenha insights com IA e fidelize clientes no WhatsApp com o Orderly.",
 };
